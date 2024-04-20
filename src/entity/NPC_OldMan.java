@@ -28,10 +28,10 @@ public class NPC_OldMan extends Entity {
 	}
 
 	public void setDialogue() {
-		dialogues[0] = "Waddup blud.";
-		dialogues[1] = "So you decided to come to this rizz \nisland to find someone?";
-		dialogues[2] = "I used to be a great rizzler just like \nkai cenat and duke dennis.";
-		dialogues[3] = "Hope you find a skibidi ohio goblin \ngirl!";
+		dialogues[0] = "Wassup blud!";
+		dialogues[1] = "So you decided to come to this island \nto find someone?";
+		dialogues[2] = "I used to be just like you an excited\nexplorer.";
+		dialogues[3] = "Hope you find the person you are \nlooking for!";
 	}
 
 	public void setAction() {
