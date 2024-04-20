@@ -1,2 +1,2 @@
 # Dingle-Game
-This Game is made by a course of RyiSnow
+This Game I made from a course of RyiSnow
